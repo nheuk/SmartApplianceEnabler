@@ -71,7 +71,7 @@ VIN = retrieveVehicles()
 retrieveSOC(VIN)
 ``` 
 
-Nach dem Speichern der Datei ein ```chmod +x VW_soc.py``` machen. Danach kann man das Script mit ./soc.py testen.
+Nach dem Speichern der Datei ein ```chmod +x VW_soc.py``` machen. Danach kann man das Script mit ./VW_soc.py testen.
 Es wird ein ganzzahliger Wert zurück geliefert, der direkt vom SAE verarbeitet werden kann.
 
 ## Anbindung an SAE
